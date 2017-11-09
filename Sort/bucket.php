@@ -19,7 +19,7 @@ function bucket(array $data = array())
 
 include "../Config.php";
 try{
-    var_dump(bucket($bucket_data));
+    var_dump(bucket($sort_data2));
 }catch (Exception $e){
     var_dump($e->getMessage());
 }

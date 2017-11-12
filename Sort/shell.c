@@ -24,7 +24,6 @@ void shell(int a[], int n){
     }
 }
 
-
 void shell2(int a[], int n)
 {
     int i, j, k, temp;
